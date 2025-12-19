@@ -1,12 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Lush
 
-🎮 Creator of Pixel Legends | Exploring the vast world of development one line of code at a time
+I'm an individual attempting to become an aspiring developer in the game industry and the mobile app industry.
 
-🌱 Currently mastering C# and Python while diving into new technologies
-👨‍💻 Open to collaborating on innovative projects
-🔍 Passionate about learning and growing in all aspects of software development
+### 🛠 What I'm working with:
+* **Learning:** C# for unity, Flutter and Dart
+* **Tools:** Android Studio, Unity
+* **Focus:** Learning more about C# and Dart to be more efficient while programming
 
-Let's build something awesome together! ✨
+### 📊 Current Goals:
+- [ ] Create a routine for myself (ADHD).
+- [ ] Attempt to make a simple todo app.
+- [ ] Learn how to make an algorith to generate different maps for my indie game.
 
+### 🤝 Connect with me:
+* **Dev Site:** https://cavenstruck.dev
+* **Portfolio:** (coming soon)
+* **Email:** hello@cavenstruck.dev
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67a3c1baf8633434823ba7c1?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+---
+
+### ⚡ Fun Fact:
+I'm currently documenting my coding journey in real-time. Check out my `study_timer` repo to see how I'm solving my first Flutter "const" errors!
