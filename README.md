@@ -20,4 +20,4 @@ I'm an individual attempting to become an aspiring developer in the game industr
 ---
 
 ### ⚡ Fun Fact:
-I'm currently documenting my coding journey in real-time. Check out my `study_timer` repo to see how I'm solving my first Flutter "const" errors!
+Theres no fun fact rn...
